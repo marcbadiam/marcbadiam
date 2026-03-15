@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marc+Badia+%F0%9F%91%8B;Software+Engineering+Student;Cloud+%26+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marc+Badia+%F0%9F%91%8B;SW+Engineering+Student;Cloud+%26+Backend+Developer" alt="Typing SVG" />
   
   <p align="center">
     <em>Building distributed systems, efficient middleware & cloud architectures ☁️</em>
@@ -16,8 +16,6 @@
     <a href="mailto:marcbadiamarti@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="pointer-events: none;" />
-    <img src="https://img.shields.io/badge/Status-Available-4ECDC4?style=for-the-badge" alt="Status: Available" style="pointer-events: none;" />
   </p>
   
 </div>
