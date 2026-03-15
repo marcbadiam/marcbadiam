@@ -101,7 +101,7 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://marcbadiamarti.github.io/portfolio" target="_blank">
+  <a href="https://marcbadia.es/en" target="_blank">
     <img src="https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
   </a>
   
