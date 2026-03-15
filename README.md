@@ -42,14 +42,14 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
 
 ### Core Technologies
 <p>
-  <a><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
-  <a><img src="https://img.shields.io/badge/Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a><img src="https://img.shields.io/badge/Python-4ECDC4?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a><img src="https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a><img src="https://img.shields.io/badge/Bash-4ECDC4?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
-  <a><img src="https://img.shields.io/badge/C-2C3E50?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-  <a><img src="https://img.shields.io/badge/Assembly-2C3E50?style=for-the-badge&logo=arm&logoColor=white" alt="Assembly" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-4ECDC4?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bash-4ECDC4?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-2C3E50?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Assembly-2C3E50?style=for-the-badge&logo=arm&logoColor=white" alt="Assembly" /></a>
 </p>
 
 </div>
