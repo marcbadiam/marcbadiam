@@ -16,8 +16,6 @@
     <a href="mailto:marcbadiamarti@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Status-Available-4ECDC4?style=for-the-badge" alt="Status: Available" />
   </p>
   
 </div>
