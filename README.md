@@ -55,7 +55,7 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
     <img src="https://img.shields.io/badge/FinOps-4ECDC4?style=flat-square" />
   </a>
   <p><strong>Neuro-Symbolic Inference Engine</strong> combining LLMs with SMT solvers to mathematically audit AWS IAM policies.</p>
-  <p><small>⚠️ <em>Disclaimer: This is a Proof of Concept (PoC) and is not functional yet. It is NOT ready for production. It may contain bugs</em></small></p>
+<p><small>🧪 <strong>Experimental PoC.</strong> Published on PyPI as an early-stage prototype. It is functional but actively evolving. Use in production environments is not recommended yet.</small></p>
 
   <br>
 
@@ -65,7 +65,7 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
     <img src="https://img.shields.io/badge/Redis-FF6B6B?style=flat-square&logo=redis&logoColor=white" />
   </a>
   <p><strong>Intelligent task routing library</strong> using consistent hashing to maximize in-memory cache hits and minimize database pressure.</p>
-  <p><small>⚠️ <em>Disclaimer: This is a Proof of Concept (PoC) and is not functional yet. It is NOT ready for production. It may contain bugs.</em></small></p>
+<p><small>🧪 <strong>Experimental PoC.</strong> Published on PyPI as an early-stage prototype. It is functional but actively evolving. Use in production environments is not recommended yet.</small></p>
 
   <br>
 
@@ -81,7 +81,7 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
 
 <div align="center">
 
-## Connect me
+## Let's Connect!
   
   <a href="https://linkedin.com/in/marcbadiamarti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
