@@ -58,41 +58,36 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">☁️ IAM Axiom Verifier</h3>
-      <div align="center">
-        <a href="https://github.com/marcbadiamarti/iam-axiom-verifier" target="_blank">
-          <img src="https://img.shields.io/badge/AWS_Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-          <img src="https://img.shields.io/badge/FinOps-4ECDC4?style=flat-square" />
-        </a>
-        <p><strong>Neuro-Symbolic Inference Engine</strong> combining LLMs with SMT solvers to mathematically audit AWS IAM policies.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Affinity Router</h3>
-      <div align="center">
-        <a href="https://github.com/marcbadiamarti/affinity-router" target="_blank">
-          <img src="https://img.shields.io/badge/Distributed_Systems-A78BFA?style=flat-square" />
-          <img src="https://img.shields.io/badge/Redis-FF6B6B?style=flat-square&logo=redis&logoColor=white" />
-        </a>
-        <p><strong>Intelligent task routing library</strong> using consistent hashing to maximize in-memory cache hits and minimize database pressure.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📸 Snap2Text</h3>
-      <div align="center">
-        <a href="https://github.com/marcbadiamarti/snap2text" target="_blank">
-          <img src="https://img.shields.io/badge/OCR-4ECDC4?style=flat-square" />
-          <img src="https://img.shields.io/badge/Gemini_AI-FF6B6B?style=flat-square&logo=google&logoColor=white" />
-        </a>
-        <p><strong>Screenshot OCR tool</strong> using Google Gemini AI — extracts text from screenshots directly to clipboard.</p>
-      </div>
-  </tr>
-</table>
+<div align="center">
+
+  <h3>☁️ IAM Axiom Verifier</h3>
+  <a href="https://github.com/marcbadiamarti/iam-axiom-verifier">
+    <img src="https://img.shields.io/badge/AWS_Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/FinOps-4ECDC4?style=flat-square" />
+  </a>
+  <p><strong>Neuro-Symbolic Inference Engine</strong> combining LLMs with SMT solvers to mathematically audit AWS IAM policies.</p>
+  <p><small>⚠️ <em>Disclaimer: This is a Proof of Concept (PoC) and is not functional yet. It is NOT ready for production. It may contain bugs</em></small></p>
+
+  <br>
+
+  <h3>🌐 Affinity Router</h3>
+  <a href="https://github.com/marcbadiamarti/affinity-router">
+    <img src="https://img.shields.io/badge/Distributed_Systems-A78BFA?style=flat-square" />
+    <img src="https://img.shields.io/badge/Redis-FF6B6B?style=flat-square&logo=redis&logoColor=white" />
+  </a>
+  <p><strong>Intelligent task routing library</strong> using consistent hashing to maximize in-memory cache hits and minimize database pressure.</p>
+  <p><small>⚠️ <em>Disclaimer: This is a Proof of Concept (PoC) and is not functional yet. It is NOT ready for production. It may contain bugs.</em></small></p>
+
+  <br>
+
+  <h3>📸 Snap2Text</h3>
+  <a href="https://github.com/marcbadiamarti/snap2text">
+    <img src="https://img.shields.io/badge/OCR-4ECDC4?style=flat-square" />
+    <img src="https://img.shields.io/badge/Gemini_AI-FF6B6B?style=flat-square&logo=google&logoColor=white" />
+  </a>
+  <p><strong>Screenshot OCR tool</strong> using Google Gemini AI — extracts text from screenshots directly to clipboard.</p>
+
+</div>
 
 ## 📫 Let's Connect
 
