@@ -20,24 +20,6 @@
   
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Virgili** (graduating 2027) with a passion for building scalable systems and cloud architectures.
-
-- 🔭 Diving deep into **distributed systems** and **cloud middleware**
-- ☁️ Preparing for **AWS Certified Developer - Associate (DVA-C02)** exam
-- 👯 Looking for **curricular/extracurricular internship opportunities**
-- 📍 Based in **Tarragona, Spain**
-
-### Languages
-🗣️ **Spanish** (Native) • **Catalan** (Native) • **English** (Intermediate)
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ### Core Technologies
@@ -54,11 +36,18 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
 
 </div>
 
----
 
-## 🚀 Featured Projects
+I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Virgili** (graduating 2027) with a passion for building scalable systems and cloud architectures.
+
+- 🔭 Diving deep into **distributed systems** and **cloud middleware**
+- ☁️ Preparing for **AWS Certified Developer - Associate (DVA-C02)** exam
+- 👯 Looking for **curricular/extracurricular internship opportunities**
+- 📍 Based in **Tarragona, Spain**
+
 
 <div align="center">
+  
+## Featured Projects
 
   <h3>☁️ IAM Axiom Verifier</h3>
   <a href="https://github.com/marcbadiamarti/iam-axiom-verifier">
@@ -85,13 +74,14 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
     <img src="https://img.shields.io/badge/OCR-4ECDC4?style=flat-square" />
     <img src="https://img.shields.io/badge/Gemini_AI-FF6B6B?style=flat-square&logo=google&logoColor=white" />
   </a>
-  <p><strong>Screenshot OCR tool</strong> using Google Gemini AI — extracts text from screenshots directly to clipboard.</p>
+  <p><strong>Screenshot OCR tool</strong> using Google Gemini AI — extracts text from screenshots directly to clipboard.
+  </p>
 
 </div>
 
-## 📫 Let's Connect
-
 <div align="center">
+
+## Connect me
   
   <a href="https://linkedin.com/in/marcbadiamarti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -107,7 +97,6 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
   
 </div>
 
----
 
 <div align="center">
   
