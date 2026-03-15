@@ -26,7 +26,7 @@
 
 I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Virgili** (graduating 2027) with a passion for building scalable systems and cloud architectures.
 
-- 🔭 Currently working on **distributed systems** and **cloud middleware**
+- 🔭 Diving deep into **distributed systems** and **cloud middleware**
 - ☁️ Preparing for **AWS Certified Developer - Associate (DVA-C02)** exam
 - 👯 Looking for **curricular/extracurricular internship opportunities**
 - 📍 Based in **Tarragona, Spain**
