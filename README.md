@@ -41,45 +41,8 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
 
 - 🔭 Diving deep into **distributed systems** and **cloud middleware**
 - ☁️ Preparing for **AWS Certified Developer - Associate (DVA-C02)** exam
-- 👯 Looking for **curricular/extracurricular internship opportunities**
 - 📍 Based in **Tarragona, Spain**
 
-
-<div align="center">
-  
-## Featured Projects
-
-  <h3>☁️ IAM Axiom Verifier</h3>
-  <a href="https://github.com/marcbadiamarti/iam-axiom-verifier">
-    <img src="https://img.shields.io/badge/AWS_Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/FinOps-4ECDC4?style=flat-square" />
-  </a>
-  <p><strong>Neuro-Symbolic Inference Engine</strong> combining LLMs with SMT solvers to mathematically audit AWS IAM policies.</p>
-<p><small>🧪 <strong>Experimental PoC.</strong> Published on PyPI as an early-stage prototype. It is functional but actively evolving. Use in production environments is not recommended yet.</small></p>
-
-  <br>
-
-  <h3>🌐 Affinity Router</h3>
-  <a href="https://github.com/marcbadiamarti/affinity-router">
-    <img src="https://img.shields.io/badge/Distributed_Systems-A78BFA?style=flat-square" />
-    <img src="https://img.shields.io/badge/Redis-FF6B6B?style=flat-square&logo=redis&logoColor=white" />
-  </a>
-  <p><strong>Intelligent task routing library</strong> using consistent hashing to maximize in-memory cache hits and minimize database pressure.</p>
-<p><small>🧪 <strong>Experimental PoC.</strong> Published on PyPI as an early-stage prototype. It is functional but actively evolving. Use in production environments is not recommended yet.</small></p>
-
-  <br>
-
-  <h3>📸 Snap2Text</h3>
-  <a href="https://github.com/marcbadiamarti/snap2text">
-    <img src="https://img.shields.io/badge/OCR-4ECDC4?style=flat-square" />
-    <img src="https://img.shields.io/badge/Gemini_AI-FF6B6B?style=flat-square&logo=google&logoColor=white" />
-  </a>
-  <p><strong>Screenshot OCR tool</strong> using Google Gemini AI — extracts text from screenshots directly to clipboard.
-  </p>
-
-</div>
-
-<div align="center">
 
 ## Let's Connect!
   
@@ -99,8 +62,6 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
 
 
 <div align="center">
-  
-  <p><em>"Building scalable systems, one commit at a time"</em> 💻</p>
   
   <img src="https://komarev.com/ghpvc/?username=marcbadiamarti&color=FF6B6B&style=flat-square" alt="Profile views" />
   
