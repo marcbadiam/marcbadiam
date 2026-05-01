@@ -34,7 +34,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Assembly-2C3E50?style=for-the-badge&logo=arm&logoColor=white" alt="Assembly" /></a>
 </p>
 
-</div>
+</div align="center">
 
 
 I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Virgili** (graduating 2027) with a passion for building scalable systems and cloud architectures.
@@ -54,15 +54,5 @@ I'm **Marc Badia**, a Software Engineering student at **Universitat Rovira i Vir
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://marcbadia.es/en" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
-  </a>
-  
 </div>
 
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=marcbadiamarti&color=FF6B6B&style=flat-square" alt="Profile views" />
-  
-</div>
